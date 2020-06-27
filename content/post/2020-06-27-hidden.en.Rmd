@@ -1,0 +1,41 @@
+---
+title: Hidden
+author: Rodrigo
+date: '2020-06-27'
+slug: hidden
+categories:
+  - hidden
+tags:
+  - hidden
+description: ''
+draft: true
+---
+
+
+# H1
+
+Teste
+`assim`
+
+[Lista de emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## H2
+
+This post was last updated on `r Sys.time()`.
+
+[**blogdown**](https://github.com/rstudio/blogdown)
+
+   Name | Age
+--------|------
+    Bob | 27
+  Alice | 23
+  
+> Don't communicate by sharing memory, share memory by communicating.</p>
+> — *Rob Pike[^1]*
+
+
+[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+
+
+* [x] test
+* [ ] test

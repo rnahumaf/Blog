@@ -12,30 +12,19 @@ categories: [
 
 ---
 
-# H1
+Sou `biotecnologista` formado na `UNISO` em 2014, após um ano de bacharelado sanduíche na `Pittsburg State University` (Kansas, EUA) durante 2012. Em 2015, iniciei minha graduação em `medicina`.
 
-Teste
-`assim`
+Já morei em `Manaus` em 2013, onde realizei meu TCC com *expressão gênica* de `HSP70` em peixes amazônicos submetidos a cenários catastróficos de *mudanças climáticas*, sob a orientação do Dr. Adalberto e sob a co-orientação da *MSc. Nayara*, a quem agradeço muito pelo meu crescimento profissional.
 
-[Lista de emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+Adoro fotografar a natureza. Recentemente, adotei um hobby de fotografar e conhecer especificamente `aves`, graças à iniciativa dos meus amigos `Fábio` e `Natália`. Sempre quando tenho um tempo livre...
 
-## H2
+![Pica-pau-branco](https://s3.amazonaws.com/media.wikiaves.com.br/images/7673/3767970q_aa3e395e9952c2b051be02eb68937dc6.jpg){height=200px}
+![Neinei](https://s3.amazonaws.com/media.wikiaves.com.br/images/3573/3753677q_4f18d3a158347fd296af7e06cd7926a8.jpg){height=200px}
+![Cambacica](https://s3.amazonaws.com/media.wikiaves.com.br/images/8763/3678762q_186597c4d9c795b9d5a40f7bf4db5a29.jpg){height=200px}
 
-This post was last updated on `r Sys.time()`.
+A minha habilidade mais recentemente desenvolvida, que se tornou também um grande hobby, é a programação. Eu comecei com `R`, especificamente na época do TCC, para fazer gráficos mais interessantes, mas esse gosto cresceu e de desenvolveu bastante, Já tentei aprender outras linguagens, como `Python`, `Javascript`, `VBA`, mas demanda muito tempo aprender tanta diversidade, especialmente para alguém cuja intenção não é virar um `programador`. Por isso, me dedico quase exclusivamente ao `R`, e pretendo continuar assim, pois estou muito satisfeito. 
 
-[**blogdown**](https://github.com/rstudio/blogdown)
+Este blog é feito inteiramente com o `RStudio`, `Github Desktop` e `Netlify`. Espero que aproveitem.
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-  
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — *Rob Pike[^1]*
+Minha namorada `Érica` é minha grande apoiadora de minhas aventuras, e sou eternamente grato por ter alguém que tanto amo ao meu lado. É uma história de amor que merece muitos capítulos à parte, mas aqui deixo pelo menos essa nota.
 
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-
-* [x] test
-* [ ] test
