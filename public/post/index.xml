@@ -12,12 +12,22 @@
     
     
     <item>
+      <title>Post de repostagem</title>
+      <link>/2020/06/27/post-de-repostagem/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/27/post-de-repostagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Um novo post</title>
       <link>/2020/06/27/um-novo-post/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/06/27/um-novo-post/</guid>
-      <description>Testando, um novo post é criado.</description>
+      <description>Testando, um novo post é criado.
+Um teste de repostagem agora</description>
     </item>
     
     <item>

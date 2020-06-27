@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>teste</title>
+      <link>/categories/teste/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teste/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
