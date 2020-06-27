@@ -4,4 +4,4 @@
 .Ruserdata
 blogdown
 Thumbs.db # if a windows user, .DS_Store  instead
-#public/ # if using Netlify
+public/ # if using Netlify
