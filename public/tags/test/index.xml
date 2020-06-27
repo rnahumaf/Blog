@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on A Hugo website</title>
+    <title>test on Um dia perdido</title>
     <link>/tags/test/</link>
-    <description>Recent content in test on A Hugo website</description>
+    <description>Recent content in test on Um dia perdido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>2020</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
@@ -17,8 +18,9 @@
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/06/27/um-novo-post/</guid>
-      <description>Testando, um novo post é criado.
-Um teste de repostagem agora</description>
+      <description>&lt;p&gt;Testando, um novo post é criado.&lt;/p&gt;
+&lt;p&gt;Um teste de repostagem agora&lt;/p&gt;
+</description>
     </item>
     
   </channel>

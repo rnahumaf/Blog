@@ -1,26 +1,44 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
-theme = "hugo-lithium"
+title = "Um dia perdido"
+theme = "hugo-theme-tokiwa"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+author = "Rnahumaf"
+DefaultContentLanguage = "en"
+hasCJKLanguage=true
+enableInlineShortcodes = true
+
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:day/"
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "Posts"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"  
+    weight = 2
 
 [[menu.main]]
     name = "About"
+    weight = 3
+    identifier = "about"
     url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Sentado, sonhando."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -32,11 +50,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "public/animals.png"
 
     [params.logo]
-    url = "logo.png"
+    url = "public/animals.png"
     width = 50
     height = 50
     alt = "Logo"
+    
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[social]
+instagram="https://www.instagram.com/mera_sanidade/"
+twitter="http://twitter.com/rnahumaf/"
+youtube="https://www.youtube.com/c/RodrigoNAlvarezF/"
+github="http://github.com/rnahumaf/"
+    
+[markup.goldmark.renderer]
+unsafe= true
 
