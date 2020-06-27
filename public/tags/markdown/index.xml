@@ -40,52 +40,16 @@
       <description>
 
 
-&lt;div id=&#34;h1&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;H1&lt;/h1&gt;
-&lt;p&gt;Teste
-&lt;code&gt;assim&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;&gt;Lista de emojis&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;h2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;H2&lt;/h2&gt;
-&lt;p&gt;This post was last updated on 2020-06-27 18:59:35.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr class=&#34;header&#34;&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Age&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td&gt;Bob&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td&gt;Alice&lt;/td&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-Don’t communicate by sharing memory, share memory by communicating.
-&lt;/p&gt;
-&lt;p&gt;— &lt;em&gt;Rob Pike&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
-test&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; /&gt;
-test&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;The above quote is excerpted from Rob Pike’s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;&gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;Este post foi atualizado em 2020-06-27 19:51:11.&lt;/p&gt;
+&lt;p&gt;Sou &lt;code&gt;biotecnologista&lt;/code&gt; formado na &lt;code&gt;UNISO&lt;/code&gt; em 2014, após um ano de bacharelado sanduíche na &lt;code&gt;Pittsburg State University&lt;/code&gt; (Kansas, EUA) durante 2012. Em 2015, iniciei minha graduação em &lt;code&gt;medicina&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Já morei em &lt;code&gt;Manaus&lt;/code&gt; em 2013, onde realizei meu TCC com &lt;em&gt;expressão gênica&lt;/em&gt; de &lt;code&gt;HSP70&lt;/code&gt; em peixes amazônicos submetidos a cenários catastróficos de &lt;em&gt;mudanças climáticas&lt;/em&gt;, sob a orientação do Dr. Adalberto e sob a co-orientação da &lt;em&gt;MSc. Nayara&lt;/em&gt;, a quem agradeço muito pelo meu crescimento profissional.&lt;/p&gt;
+&lt;p&gt;Adoro fotografar a natureza. Recentemente, adotei um hobby de fotografar e conhecer especificamente &lt;code&gt;aves&lt;/code&gt;, graças à iniciativa dos meus amigos &lt;code&gt;Fábio&lt;/code&gt; e &lt;code&gt;Natália&lt;/code&gt;. Sempre quando tenho um tempo livre…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s3.amazonaws.com/media.wikiaves.com.br/images/7673/3767970q_aa3e395e9952c2b051be02eb68937dc6.jpg&#34; height=&#34;200&#34; alt=&#34;Pica-pau-branco&#34; /&gt;
+&lt;img src=&#34;https://s3.amazonaws.com/media.wikiaves.com.br/images/3573/3753677q_4f18d3a158347fd296af7e06cd7926a8.jpg&#34; height=&#34;200&#34; alt=&#34;Neinei&#34; /&gt;
+&lt;img src=&#34;https://s3.amazonaws.com/media.wikiaves.com.br/images/8763/3678762q_186597c4d9c795b9d5a40f7bf4db5a29.jpg&#34; height=&#34;200&#34; alt=&#34;Cambacica&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A minha habilidade mais recentemente desenvolvida, que se tornou também um grande hobby, é a programação. Eu comecei com &lt;code&gt;R&lt;/code&gt;, especificamente na época do TCC, para fazer gráficos mais interessantes, mas esse gosto cresceu e de desenvolveu bastante, Já tentei aprender outras linguagens, como &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;Javascript&lt;/code&gt;, &lt;code&gt;VBA&lt;/code&gt;, mas demanda muito tempo aprender tanta diversidade, especialmente para alguém cuja intenção não é virar um &lt;code&gt;programador&lt;/code&gt;. Por isso, me dedico quase exclusivamente ao &lt;code&gt;R&lt;/code&gt;, e pretendo continuar assim, pois estou muito satisfeito.&lt;/p&gt;
+&lt;p&gt;Este blog é feito inteiramente com o &lt;code&gt;RStudio&lt;/code&gt;, &lt;code&gt;Github Desktop&lt;/code&gt; e &lt;code&gt;Netlify&lt;/code&gt;. Espero que aproveitem.&lt;/p&gt;
+&lt;p&gt;Minha namorada &lt;code&gt;Érica&lt;/code&gt; é minha grande apoiadora de minhas aventuras, e sou eternamente grato por ter alguém que tanto amo ao meu lado. É uma história de amor que merece muitos capítulos à parte, mas aqui deixo pelo menos essa nota.&lt;/p&gt;
 </description>
     </item>
     

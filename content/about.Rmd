@@ -12,6 +12,8 @@ categories: [
 
 ---
 
+Este post foi atualizado em `r Sys.time()`.
+
 Sou `biotecnologista` formado na `UNISO` em 2014, após um ano de bacharelado sanduíche na `Pittsburg State University` (Kansas, EUA) durante 2012. Em 2015, iniciei minha graduação em `medicina`.
 
 Já morei em `Manaus` em 2013, onde realizei meu TCC com *expressão gênica* de `HSP70` em peixes amazônicos submetidos a cenários catastróficos de *mudanças climáticas*, sob a orientação do Dr. Adalberto e sob a co-orientação da *MSc. Nayara*, a quem agradeço muito pelo meu crescimento profissional.
