@@ -15,6 +15,9 @@ categories: [
 # H1
 
 Teste
+`assim`
+
+[Lista de emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## H2
 

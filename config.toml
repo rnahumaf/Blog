@@ -10,9 +10,12 @@ author = "Rnahumaf"
 DefaultContentLanguage = "en"
 hasCJKLanguage=true
 enableInlineShortcodes = true
+enableEmoji = true
 
 [permalinks]
-    post = "/:year/:month/:day/"
+    post = "/:year/:month/:day/:slug"
+    
+
 
 [menu]
 # Shown in the side menu.

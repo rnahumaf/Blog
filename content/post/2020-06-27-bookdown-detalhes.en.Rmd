@@ -1,0 +1,23 @@
+---
+title: 'Blogdown: detalhes'
+author: Rodrigo Nahum
+date: '2020-06-27'
+slug: bookdown-detalhes
+categories:
+  - ensino
+tags:
+  - markdown
+description: ''
+---
+
+Apesar de eu não querer transformar este site em algo técnico, eu gostaria de compartilhar alguns problemas e formas de resolvê-los.
+
+A sessão de `permalink` do arquivo `config.toml` se refere ao diretório em que o `index.html` será salvo, e não deve ser modificado trivialmente!
+
+> Eu achei que ele abordava o estilo de data/horário... -.-
+
+Por exemplo, se ele estiver marcando `\:year\:month\:day\:slug`, deixe assim, caso contrário você encontrará problemas intermináveis na compilação do site final.
+
+Outra questão importante é que na hora de atualizar o tema do site, se você tiver feito o primeiro *upload* com o tema anterior no `Netlify`, você irá encontrar problemas. Por isso, sugiro que você **delete** a pasta `public`, já que ela será refeita quando compilar o site de novo, com o *blogdown*.
+
+:smile:

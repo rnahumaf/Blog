@@ -12,11 +12,31 @@
     
     
     <item>
-      <title>Eu</title>
-      <link>/2020/06/27/</link>
+      <title>Blogdown: detalhes</title>
+      <link>/2020/06/27/bookdown-detalhes/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/06/27/</guid>
+      <guid>/2020/06/27/bookdown-detalhes/</guid>
+      <description>
+
+
+&lt;p&gt;Apesar de eu não querer transformar este site em algo técnico, eu gostaria de compartilhar alguns problemas e formas de resolvê-los.&lt;/p&gt;
+&lt;p&gt;A sessão de &lt;code&gt;permalink&lt;/code&gt; do arquivo &lt;code&gt;config.toml&lt;/code&gt; se refere ao diretório em que o &lt;code&gt;index.html&lt;/code&gt; será salvo, e não deve ser modificado trivialmente!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Eu achei que ele abordava o estilo de data/horário… -.-&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Por exemplo, se ele estiver marcando &lt;code&gt;\:year\:month\:day\:slug&lt;/code&gt;, deixe assim, caso contrário você encontrará problemas intermináveis na compilação do site final.&lt;/p&gt;
+&lt;p&gt;Outra questão importante é que na hora de atualizar o tema do site, se você tiver feito o primeiro &lt;em&gt;upload&lt;/em&gt; com o tema anterior no &lt;code&gt;Netlify&lt;/code&gt;, você irá encontrar problemas. Por isso, sugiro que você &lt;strong&gt;delete&lt;/strong&gt; a pasta &lt;code&gt;public&lt;/code&gt;, já que ela será refeita quando compilar o site de novo, com o &lt;em&gt;blogdown&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eu</title>
+      <link>/2020/06/27/eu/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/27/eu/</guid>
       <description>
 
 
@@ -49,10 +69,12 @@ Espero que essa experiência também possa ser agradável a quem visitar esta p�
 
 &lt;div id=&#34;h1&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;H1&lt;/h1&gt;
-&lt;p&gt;Teste&lt;/p&gt;
+&lt;p&gt;Teste
+&lt;code&gt;assim&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;&gt;Lista de emojis&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;h2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;H2&lt;/h2&gt;
-&lt;p&gt;This post was last updated on 2020-06-27 17:14:33.&lt;/p&gt;
+&lt;p&gt;This post was last updated on 2020-06-27 18:59:35.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
