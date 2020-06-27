@@ -1,8 +1,8 @@
 ---
 date: "2020-06-27"
 author: "Rnahumaf"
-title: "Experimentos"
-description: "Amostra de links."
+title: "Explicando..."
+description: "Sobre mim"
 tags: [
     "markdown"
 ]
