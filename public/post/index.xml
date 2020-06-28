@@ -58,5 +58,114 @@ Espero que essa experiência também possa ser agradável a quem visitar esta p�
 </description>
     </item>
     
+    <item>
+      <title>Hidden</title>
+      <link>/2020/06/27/hidden/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/27/hidden/</guid>
+      <description>
+
+
+&lt;div id=&#34;h1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;H1&lt;/h1&gt;
+&lt;p&gt;Teste
+&lt;code&gt;assim&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.webfx.com/tools/emoji-cheat-sheet/&#34;&gt;Lista de emojis&lt;/a&gt;&lt;/p&gt;
+&lt;div id=&#34;h2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;H2&lt;/h2&gt;
+&lt;p&gt;This post was last updated on 2020-06-27 19:51:14.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Bob&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Alice&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+Don’t communicate by sharing memory, share memory by communicating.
+&lt;/p&gt;
+&lt;p&gt;— &lt;em&gt;Rob Pike&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; checked=&#34;&#34; /&gt;
+test&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34; /&gt;
+test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;The above quote is excerpted from Rob Pike’s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;&gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>O princípio da autossuficiência</title>
+      <link>/2020/06/27/autossuficiente/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/27/autossuficiente/</guid>
+      <description>
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Autossuficiência&lt;/th&gt;
+&lt;th&gt;Resultado&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Múltiplas habilidades&lt;/td&gt;
+&lt;td&gt;Trabalho sem ajuda&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;Facilidades&lt;/td&gt;
+&lt;td&gt;Inveja alheia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;Eficiência&lt;/td&gt;
+&lt;td&gt;Arrogância repulsiva&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Quando somos &lt;code&gt;suficientes&lt;/code&gt;, somos &lt;code&gt;rejeitados&lt;/code&gt;. Essa reiejção não necessariamente é &lt;em&gt;injusta&lt;/em&gt;, uma vez que, por um aspecto, as consequências dessa suficiência são &lt;em&gt;desejadas&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Assim como a &lt;code&gt;carência&lt;/code&gt; é manifestada por quem deseja &lt;code&gt;afeto&lt;/code&gt;, a suficiência é manifestada por quem deseja o &lt;code&gt;afastamento&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Qual é a vantagem da suficiência? Ora, se eu não preciso da sua ajuda, definitivamente a minha vantagem &lt;em&gt;não é&lt;/em&gt; ter você por perto, mas algo diferente. Então o que é?&lt;/p&gt;
+&lt;p&gt;Assim como é verdade que seres sociais precisam de afeto, de proximidade humana e de visibilidade, também é verdade que, de alguma forma, seres sociais precisam de, pelo menos um pouco, do &lt;em&gt;contrário&lt;/em&gt; de tudo isso.&lt;/p&gt;
+&lt;p&gt;Mas seriam todas as pessoas &lt;em&gt;capazes&lt;/em&gt; de autossuficiência? Aqui eu postulo que nem todos são &lt;em&gt;capazes&lt;/em&gt;, mas todos têm a &lt;em&gt;necessidade&lt;/em&gt; da autossuficiência.&lt;/p&gt;
+&lt;p&gt;São nos momentos de autossuficiência que notamos as nossas &lt;code&gt;falhas&lt;/code&gt; e os nossos verdadeiros &lt;code&gt;desejos&lt;/code&gt;. Portanto a autossuficiência não é somente uma habilidade, mas um &lt;strong&gt;treino&lt;/strong&gt; de autoconhecimento.&lt;/p&gt;
+&lt;div id=&#34;falhas-do-autoconhecimento&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Falhas do autoconhecimento&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+Quem pensa somente em &lt;code&gt;agradar&lt;/code&gt; não conhece as próprias &lt;code&gt;limitações&lt;/code&gt;. Agradar o próximo é um exercício de &lt;code&gt;interdependência&lt;/code&gt;. Quem agrada não quer o bem, quer &lt;code&gt;agrado&lt;/code&gt;. O exercício do agrado têm função nos relacionamentos íntimos, como entre famílias, amigos, cônjujes… e animais de estimação 😄.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Contudo, o agrado &lt;em&gt;sozinho&lt;/em&gt; não implica em outras grandes qualidades de um relacionamento interpessoal, como a &lt;em&gt;segurança&lt;/em&gt;, a &lt;em&gt;previsibilidade&lt;/em&gt; e a &lt;em&gt;responsabilidade&lt;/em&gt;. Essas qualidades requerem que o relacionamento se corresponda a algum tipo de &lt;code&gt;finalidade&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Previsibilidade é saber que, &lt;em&gt;toda a vez&lt;/em&gt; que chove, o humor fica depressivo e mau-humorado. Responsabilidade é saber que, mesmo mau-humorado, o marido vai &lt;em&gt;ajudar&lt;/em&gt; a limpar a casa no dia da faxina. Segurança é saber que, mesmo se você disser algo errado, você &lt;em&gt;não será censurado&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Para &lt;code&gt;transmitir ao próximo&lt;/code&gt; as finalidades de se relacionar com &lt;em&gt;você&lt;/em&gt;, você precisa se &lt;em&gt;autoconhecer&lt;/em&gt;, e a melhor forma de fazer isso é se libertando, &lt;em&gt;provisoriamente&lt;/em&gt;, da sua &lt;code&gt;necessidade de se relacionar&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
