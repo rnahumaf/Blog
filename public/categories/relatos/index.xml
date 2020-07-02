@@ -6,10 +6,41 @@
     <description>Recent content in relatos on R Nahum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/relatos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Muitas informações, pouca didática, zero confiança</title>
+      <link>/2020/07/02/zero-confianca/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/02/zero-confianca/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/d3/d3.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/dagre/dagre-d3.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/mermaid/dist/mermaid.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/mermaid/dist/mermaid.slim.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/DiagrammeR-styles/styles.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/chromatography/chromatography.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/DiagrammeR-binding/DiagrammeR.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Tivemos aula de manhã com o professor &lt;code&gt;Lyra&lt;/code&gt;. Os sentimentos são misturados. Ao mesmo tempo em que ele é um dos únicos professores da faculdade que se interessam por biologia celular, o que é &lt;code&gt;excelente&lt;/code&gt;, pois realmente os alunos não sabem nada disso, ele não convence.&lt;/p&gt;
+&lt;p&gt;Ouço muitas palavras comuns, como &lt;code&gt;ciclinas&lt;/code&gt;, &lt;code&gt;CDK&lt;/code&gt;, &lt;code&gt;p21&lt;/code&gt;, &lt;code&gt;p19&lt;/code&gt;, &lt;code&gt;p53&lt;/code&gt;, &lt;code&gt;pRb&lt;/code&gt;, &lt;code&gt;E2F&lt;/code&gt;, etc.&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;DiagrammeR html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;\ngraph TD\nA(Ciclina D) --&gt;  B[CDK4/6]\nB --&gt; |CONTRA| C[Rb]\nB --&gt;  E\nC --&gt; |CONTRA| D[E2F]\nC --&gt; |CONTRA| E\nD --&gt;  E((Replicação))\nA --&gt;  E\nA --&gt; |CONTRA| C\nA --&gt;  D\n        &#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;Ou seja, &lt;code&gt;Rb&lt;/code&gt; é supressor tumoral em condições normais. É importante sempre relembrar desse conceito, porque o nome da molécula é péssimo (&lt;em&gt;retinoblastoma&lt;/em&gt;), o que nos faz sempre pensar erroneamente que Rb provoca tumores. Não. &lt;code&gt;Rb&lt;/code&gt; é &lt;strong&gt;supressor&lt;/strong&gt;, por inibir a atuação de &lt;code&gt;E2F&lt;/code&gt;.&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;DiagrammeR html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;diagram&#34;:&#34;\ngraph LR\nA(p53) --&gt;  B[p21]\nB --&gt; |CONTRA| C[CDK4/6]\nD[p16] --&gt; |CONTRA| C\nC --&gt; E((Replicação))\nA --&gt; |CONTRA| E\nB --&gt; |CONTRA| E\nD --&gt; |CONTRA| E\n\n        &#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;Portanto, temos &lt;code&gt;p53&lt;/code&gt;, &lt;code&gt;p16&lt;/code&gt; e &lt;code&gt;p21&lt;/code&gt; como &lt;em&gt;supressores tumorais&lt;/em&gt;, por inibirem CDKs.&lt;/p&gt;
+&lt;p&gt;Relembrar de tudo isso é excelente. Mas aí ele vem com aquelas histórias baseadas em estudos de 1960. Não se pode desmerecer qualquer estudo, mas existem evidências modernas. O que mais incomoda, na verdade, é a &lt;code&gt;extrapolação&lt;/code&gt; de dados que não têm qualquer relação com a lógica.&lt;/p&gt;
+&lt;p&gt;Por exemplo, ele mostrou um estudo em que estimaram que o tempo médio de duplicação de um tumor em mulheres jovens era muito maior do que o tempo de duplicação de tumores em mulheres mais velhas, e concluiu &lt;strong&gt;a partir disso&lt;/strong&gt; que as mulheres devem fazer mamografia a partir dos 40 anos. E chamou isso de &lt;em&gt;ciência&lt;/em&gt;. Por favor, não contamine o nome da ciência com extrapolações absurdas. Temos evidências melhores do que essas. &lt;em&gt;Sinceramente&lt;/em&gt;, o tempo de duplicação &lt;em&gt;isoladamente&lt;/em&gt; não diz &lt;em&gt;absolutamente nada&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Enfim. Eu acho ele um bom professor mesmo assim, pois ele tras informações interessantes e nos estimula a estudar. É isso o que importa, no final. Prefiro mil vezes ele do que outros professores que falam sem qualquer pudor, sem indicar &lt;em&gt;nenhuma&lt;/em&gt; evidência (que na maioria das vezes não existe).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Relato ginecologia</title>

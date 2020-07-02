@@ -1,0 +1,60 @@
+---
+title: Muitas informações, pouca didática, zero confiança
+author: Rodrigo Nahum
+date: '2020-07-02'
+slug: zero-confianca
+categories:
+  - relatos
+tags:
+  - medicina
+description: ''
+---
+
+Tivemos aula de manhã com o professor `Lyra`. Os sentimentos são misturados. Ao mesmo tempo em que ele é um dos únicos professores da faculdade que se interessam por biologia celular, o que é `excelente`, pois realmente os alunos não sabem nada disso, ele não convence.
+
+Ouço muitas palavras comuns, como `ciclinas`, `CDK`, `p21`, `p19`, `p53`, `pRb`, `E2F`, etc. 
+
+```{r, echo=FALSE}
+suppressWarnings(library(DiagrammeR))
+
+
+mermaid("
+graph TD
+A(Ciclina D) -->  B[CDK4/6]
+B --> |CONTRA| C[Rb]
+B -->  E
+C --> |CONTRA| D[E2F]
+C --> |CONTRA| E
+D -->  E((Replicação))
+A -->  E
+A --> |CONTRA| C
+A -->  D
+        ")
+```
+
+Ou seja, `Rb` é supressor tumoral em condições normais. É importante sempre relembrar desse conceito, porque o nome da molécula é péssimo (*retinoblastoma*), o que nos faz sempre pensar erroneamente que Rb provoca tumores. Não. `Rb` é **supressor**, por inibir a atuação de `E2F`.
+
+```{r, echo=FALSE}
+suppressWarnings(library(DiagrammeR))
+
+
+mermaid("
+graph LR
+A(p53) -->  B[p21]
+B --> |CONTRA| C[CDK4/6]
+D[p16] --> |CONTRA| C
+C --> E((Replicação))
+A --> |CONTRA| E
+B --> |CONTRA| E
+D --> |CONTRA| E
+
+        ")
+```
+
+Portanto, temos `p53`, `p16` e `p21` como *supressores tumorais*, por inibirem CDKs.
+
+Relembrar de tudo isso é excelente. Mas aí ele vem com aquelas histórias baseadas em estudos de 1960. Não se pode desmerecer qualquer estudo, mas existem evidências modernas. O que mais incomoda, na verdade, é a `extrapolação` de dados que não têm qualquer relação com a lógica.
+
+Por exemplo, ele mostrou um estudo em que estimaram que o tempo médio de duplicação de um tumor em mulheres jovens era muito maior do que o tempo de duplicação de tumores em mulheres mais velhas, e concluiu **a partir disso** que as mulheres devem fazer mamografia a partir dos 40 anos. E chamou isso de  *ciência*. Por favor, não contamine o nome da ciência com extrapolações absurdas. Temos evidências melhores do que essas. *Sinceramente*, o tempo de duplicação *isoladamente* não diz *absolutamente nada*.
+
+Enfim. Eu acho ele um bom professor mesmo assim, pois ele tras informações interessantes e nos estimula a estudar. É isso o que importa, no final. Prefiro mil vezes ele do que outros professores que falam sem qualquer pudor, sem indicar *nenhuma* evidência (que na maioria das vezes não existe).

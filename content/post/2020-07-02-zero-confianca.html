@@ -1,0 +1,33 @@
+---
+title: Muitas informações, pouca didática, zero confiança
+author: Rodrigo Nahum
+date: '2020-07-02'
+slug: zero-confianca
+categories:
+  - relatos
+tags:
+  - medicina
+description: ''
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/d3/d3.min.js"></script>
+<script src="/rmarkdown-libs/dagre/dagre-d3.min.js"></script>
+<link href="/rmarkdown-libs/mermaid/dist/mermaid.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/mermaid/dist/mermaid.slim.min.js"></script>
+<link href="/rmarkdown-libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/chromatography/chromatography.js"></script>
+<script src="/rmarkdown-libs/DiagrammeR-binding/DiagrammeR.js"></script>
+
+
+<p>Tivemos aula de manhã com o professor <code>Lyra</code>. Os sentimentos são misturados. Ao mesmo tempo em que ele é um dos únicos professores da faculdade que se interessam por biologia celular, o que é <code>excelente</code>, pois realmente os alunos não sabem nada disso, ele não convence.</p>
+<p>Ouço muitas palavras comuns, como <code>ciclinas</code>, <code>CDK</code>, <code>p21</code>, <code>p19</code>, <code>p53</code>, <code>pRb</code>, <code>E2F</code>, etc.</p>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"\ngraph TD\nA(Ciclina D) -->  B[CDK4/6]\nB --> |CONTRA| C[Rb]\nB -->  E\nC --> |CONTRA| D[E2F]\nC --> |CONTRA| E\nD -->  E((Replicação))\nA -->  E\nA --> |CONTRA| C\nA -->  D\n        "},"evals":[],"jsHooks":[]}</script>
+<p>Ou seja, <code>Rb</code> é supressor tumoral em condições normais. É importante sempre relembrar desse conceito, porque o nome da molécula é péssimo (<em>retinoblastoma</em>), o que nos faz sempre pensar erroneamente que Rb provoca tumores. Não. <code>Rb</code> é <strong>supressor</strong>, por inibir a atuação de <code>E2F</code>.</p>
+<div id="htmlwidget-2" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"diagram":"\ngraph LR\nA(p53) -->  B[p21]\nB --> |CONTRA| C[CDK4/6]\nD[p16] --> |CONTRA| C\nC --> E((Replicação))\nA --> |CONTRA| E\nB --> |CONTRA| E\nD --> |CONTRA| E\n\n        "},"evals":[],"jsHooks":[]}</script>
+<p>Portanto, temos <code>p53</code>, <code>p16</code> e <code>p21</code> como <em>supressores tumorais</em>, por inibirem CDKs.</p>
+<p>Relembrar de tudo isso é excelente. Mas aí ele vem com aquelas histórias baseadas em estudos de 1960. Não se pode desmerecer qualquer estudo, mas existem evidências modernas. O que mais incomoda, na verdade, é a <code>extrapolação</code> de dados que não têm qualquer relação com a lógica.</p>
+<p>Por exemplo, ele mostrou um estudo em que estimaram que o tempo médio de duplicação de um tumor em mulheres jovens era muito maior do que o tempo de duplicação de tumores em mulheres mais velhas, e concluiu <strong>a partir disso</strong> que as mulheres devem fazer mamografia a partir dos 40 anos. E chamou isso de <em>ciência</em>. Por favor, não contamine o nome da ciência com extrapolações absurdas. Temos evidências melhores do que essas. <em>Sinceramente</em>, o tempo de duplicação <em>isoladamente</em> não diz <em>absolutamente nada</em>.</p>
+<p>Enfim. Eu acho ele um bom professor mesmo assim, pois ele tras informações interessantes e nos estimula a estudar. É isso o que importa, no final. Prefiro mil vezes ele do que outros professores que falam sem qualquer pudor, sem indicar <em>nenhuma</em> evidência (que na maioria das vezes não existe).</p>
