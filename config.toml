@@ -1,16 +1,18 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "R Nahum"
+languageCode = "pt"
+DefaultContentLanguage = "pt"
+title = "R Nahum | Um blog patológico"
 theme = "hugo-theme-tokiwa"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-author = "Rnahumaf"
-DefaultContentLanguage = "en"
-hasCJKLanguage=true
+author = "R Nahum"
+hasCJKLanguage=false
 enableInlineShortcodes = true
 enableEmoji = true
+fuse = true
+footnoteReturnLinkContents = "^"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -51,6 +53,7 @@ enableEmoji = true
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
+    useChineseFonts = false
 
     # path to the favicon, under "static"
     favicon = "public/animals.png"
@@ -74,3 +77,5 @@ github="http://github.com/rnahumaf/"
 [markup.goldmark.renderer]
 unsafe= true
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
